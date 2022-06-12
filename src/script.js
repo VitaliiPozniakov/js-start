@@ -76,6 +76,7 @@
 // console.log(result)
 
 
+
 const a = ['a', 'k', 'n', 'h', 'n', 'n', 'k']
 
 // for (let i = a.length - 1; i > 0 ; i -= 1) {
@@ -87,5 +88,5 @@ const a = ['a', 'k', 'n', 'h', 'n', 'n', 'k']
 
 console.log (a.lastIndexOf(`n`))
 
-
+const Joi = require('joi');
 
